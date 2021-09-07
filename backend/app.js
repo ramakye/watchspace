@@ -9,7 +9,7 @@ const cors = require('cors')
 
 
 
-mongoose.connect('mongodb+srv://@cluster0.thnqf.mongodb.net/?retryWrites=true&w=majority', {
+mongoose.connect('mongose database connection goes here', {
     useNewUrlParser: true,
     useUnifiedTopology:true,
     // useCreateIndex:true
